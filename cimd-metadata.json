@@ -1,0 +1,16 @@
+{
+  "client_id": "https://0xdead4f.github.io/cimd-policy-proof-01a0eaae/cimd-metadata.json",
+  "client_name": "CLEAVE CIMD POLICY 01a0eaae",
+  "client_uri": "https://0xdead4f.github.io/cimd-policy-proof-01a0eaae/",
+  "redirect_uris": [
+    "https://0xdead4f.github.io/cimd-policy-proof-01a0eaae/callback.html"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "scope": "viewAccountOverview"
+}
