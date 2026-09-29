@@ -1,0 +1,23 @@
+{
+  "client_id": "https://0xdead4f.github.io/cimd-policy-proof-01a0eaae/reflection-metadata.json",
+  "client_name": "CIMD_NAME_REFLECT_01A0EB1C",
+  "client_uri": "https://y65l0wit8seiwbwjz200ng2medk5dtjpy9z1o.oastify.com/field-client-uri-CIMDURI01",
+  "logo_uri": "https://2nqph0zxpwvmdfdng6h44kjqvh19vx1tgdh66.oastify.com/field-logo-CIMDLOGO01.svg",
+  "policy_uri": "https://k3o7xiff5eb4txt5woxmk2z8bzhrcfibxvypn.oastify.com/field-policy-CIMDPOLICY01",
+  "tos_uri": "https://gg03aesbiao06t619kaixyc4ovunqbw7brcm1.oastify.com/field-tos-CIMDTOS01",
+  "redirect_uris": [
+    "https://z44myxgu6tcjucukx3y1lh0ncei6fulq0a16q.oastify.com/field-redirect-CIMDREDIR01"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "scope": "viewLibrary",
+  "contacts": [
+    "CIMD_CONTACT_REFLECT_01A0EB1C@example.invalid"
+  ],
+  "unknown_marker": "CIMD_UNKNOWN_REFLECT_01A0EB1C"
+}
